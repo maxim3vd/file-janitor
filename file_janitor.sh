@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 year=$(date +%Y)
-echo $year
+echo "File Janitor, $year"
